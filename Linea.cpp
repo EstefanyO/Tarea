@@ -18,6 +18,9 @@ double Linea::informacion() {
      double recta[2];    // array o lista que va a almacenar la lista del punto A y la del punto B.
      double puntoA[2];   // array o lista que va a almacenar las coordenadas del punto A.
      double puntoB[2];   // array o lista que va a almacenar las coordenadas del punto A.
-     Punto* A=A[0]       // aquí se debe llamar el metodo get
+     
+     Punto* A=A[0]       // aquí se debe llamar el metodo get para obtener las coordenadas de los dos puntos de las recta 
+                         // meter las coordenadas del punto A en puntoA[] y las del punto B en puntoB[], a su vez meter ambos arrays o listas
+                         // en recta[]
      
 }
