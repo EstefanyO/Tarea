@@ -27,6 +27,8 @@ public:
 	}
 
 	// Metodos
+	
+	// hacer un metodo para poder insertar los puntos iniciales A y B que conforman la recta
 	double mueveDerecha(double _dato);
 	double mueveIzquierda(double _dato);
 	double mueveArriba(double _dato);
